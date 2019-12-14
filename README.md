@@ -1,4 +1,4 @@
-## amd-bot
+## SaveTweak - Bot!
 
 **Dies ist ein** _*Deutscher*_ **Bot!!!**
 
@@ -7,7 +7,7 @@
 
 
 
-[Commands](/cmd/ "AMD • Commands!")
+[Commands](/SaveTweak/cmd/ "AMD • Commands!")
 
 
 
@@ -16,7 +16,7 @@
 ## features
 
 
-[AMD • Features!](/features/")
+[AMD • Features!](/SaveTweak/features/")
 
 <br><br><br>
 
@@ -24,4 +24,4 @@
 
 _Ich hoste den Bot via_ ***App!***
 
-[DBD on Playstore](/go/dcapp/ "Redirect to the App!")
+[DBD on Playstore](/SaveTweak/go/dcapp/ "Redirect to the App!")
